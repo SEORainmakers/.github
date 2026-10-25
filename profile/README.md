@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Charles Floate's Rainmakers" width="480">
+</p>
+
 # AI SEO Rainmakers
 
 Private AI SEO community founded by [Charles Floate](https://seo.stream/about/) and published by [SEO.Stream](https://seo.stream). It runs on Skool for working SEOs, agency owners, and affiliate operators.
